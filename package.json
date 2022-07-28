@@ -1,0 +1,24 @@
+{
+  "name": "doremisubscription",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node geekTrust.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashishraut92/doremiSubscription.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashishraut92/doremiSubscription/issues"
+  },
+  "homepage": "https://github.com/Ashishraut92/doremiSubscription#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
